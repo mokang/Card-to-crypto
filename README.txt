@@ -13,3 +13,6 @@ This is completely safe for anyone wondering. It completely runs off of moonpay 
 Credits:
 list#0001
 fighter#1234
+
+Contact: 
+How do I get to you. I need your services for a project
